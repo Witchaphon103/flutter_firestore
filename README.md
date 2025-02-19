@@ -1,25 +1,25 @@
 # Flutter Firestore
 
-A simple Flutter application to integrate with Firebase Firestore for storing and retrieving data. This app demonstrates how to perform CRUD (Create, Read, Update, Delete) operations on Firestore in a Flutter environment.
+แอปพลิเคชัน Flutter ที่ใช้สำหรับเชื่อมต่อกับ Firebase Firestore เพื่อทำการจัดการข้อมูล เช่น การเพิ่ม, แก้ไข, ดู, และลบข้อมูลจาก Firestore
 
-## Features
+## ฟีเจอร์
 
-- **Add new data**: Add new records to Firestore.
-- **View data**: Retrieve and display data in a list.
-- **Edit data**: Modify existing data.
-- **Delete data**: Remove records from Firestore.
+- **เพิ่มข้อมูลใหม่**: เพิ่มข้อมูลใหม่ลงใน Firestore
+- **ดูข้อมูล**: เรียกดูและแสดงข้อมูลจาก Firestore
+- **แก้ไขข้อมูล**: แก้ไขข้อมูลที่มีอยู่
+- **ลบข้อมูล**: ลบข้อมูลจาก Firestore
 
-## Prerequisites
+## ข้อกำหนดเบื้องต้น
 
-Before running the application, ensure you have the following installed:
+ก่อนที่คุณจะรันแอปพลิเคชันนี้ โปรดติดตั้งสิ่งเหล่านี้:
 
 - Flutter SDK
-- Firebase Account and Project
-- Android Studio or any other preferred IDE
+- Firebase Account และโปรเจกต์
+- Android Studio หรือ IDE ที่คุณต้องการ
 
-## Setup
+## วิธีการตั้งค่า
 
-1. **Clone the repository:**
+1. **โคลนรีโพซิทอรี:**
 
    ```bash
    git clone https://github.com/Witchaphon103/flutter_firestore.git
